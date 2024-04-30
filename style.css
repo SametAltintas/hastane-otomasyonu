@@ -1,0 +1,17 @@
+form{
+    text-align: center;
+    height: 80vh;
+    button{
+        margin-top: 10px;
+    }
+    label{
+        background-color: rgb(0, 0, 0,.5);
+        color: white;
+    }
+}
+body{
+    background-image: url("./image/kurumsal-kimlikpng.png");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
